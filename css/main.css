@@ -78,3 +78,34 @@ text-align: center;
     width:50%;
     
 }
+
+.photogallery{
+    display: inline-block;
+    border: 1px solid white;
+    margin: 5px;
+    width: 200px;
+
+
+}
+
+.photogallery  .description {
+
+    padding: 10px;
+    text-align:center;
+    color: white;
+
+
+
+}
+
+.photogallery:hover{
+
+border: 1px solid blue;
+
+}
+
+.photogallery img{
+    width: 100%;
+    height: auto;
+
+}
