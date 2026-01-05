@@ -83,7 +83,7 @@ text-align: center;
     display: inline-block;
     border: 1px solid white;
     margin: 5px;
-    width: 400px;
+    width: 500px;
     align-items: center;
 
 
@@ -108,6 +108,5 @@ border: 1px solid blue;
 .photogallery img{
     width: 100%;
     height: auto;
-    align-items: center;
 
 }
